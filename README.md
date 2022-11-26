@@ -147,7 +147,7 @@ CTR function
 
 Integration tested
 
-$$\int_0^4 \sin{x} dx$$
+$$\int_0^{\pi} \sin{x} dx$$
 
     def f(x):
         return math.sin(x)
